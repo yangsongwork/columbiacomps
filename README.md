@@ -1,1 +1,1 @@
-# columbiacomps
+# Columbia Sportswear Trading Comps
